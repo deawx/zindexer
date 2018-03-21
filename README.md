@@ -15,8 +15,8 @@ var data = {
   .
   .
 }
-```
 zindexer(data);
+```
 
 ## Example
 <a href="https://codepen.io/mrfrk/pen/WzjweX" target="_blank">https://codepen.io/mrfrk/pen/WzjweX</a>
