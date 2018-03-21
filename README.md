@@ -2,12 +2,12 @@
 Simple Javascript Plugin: organize your z-index values
 
 ## Installing
-```
+```html
 <script type="text/javascript" src="zindexer.min.js"></script>
 ```
 
 ## Usage
-```
+```javascript
 var data = {
   'selector': 'z-index_value',
   'selector': 'z-index_value'
