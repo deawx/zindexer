@@ -7,6 +7,7 @@ Simple Javascript Plugin: organize your z-index values
 ```
 
 ## Usage
+```
 var data = {
   'selector': 'z-index_value',
   'selector': 'z-index_value'
@@ -14,6 +15,7 @@ var data = {
   .
   .
 }
+```
 zindexer(data);
 
 ## Example
