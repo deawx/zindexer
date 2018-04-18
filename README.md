@@ -1,5 +1,5 @@
 # Z Indexer
-Simple Javascript Plugin: organize your z-index values
+Simple Javascript Plugin: organize z-index values
 
 ## Installing
 ```html
